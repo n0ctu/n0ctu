@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm n0ctu 👋
 
-<!--
-**n0ctu/n0ctu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌘 I'm a night owl, thus the username
+- 💻 I create small apps and utilities to reduce manual labour (I'm rather lazy)
+- 🏢 IRL working as a system engineer
+- 🕊️ I love freedom and everything open source
+- 🤖 I'm into hardware stuff too and build weird constructions
+- 🚀 I regularely attend hacker events with a trunk full of blinky stuff
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in touch
+- ✉️ Via email `n0ctu@proton.me`
+- 💬 On matrix `@n0ctu:matrix.org`
+- 🐘 Or Mastodon `n0ctu@troet.cafe`
