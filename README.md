@@ -8,6 +8,6 @@
 - 🚀 I regularely attend hacker events with a trunk full of blinky stuff
 
 ### Get in touch
-- ✉️ Via email `n0ctu@proton.me`
-- 💬 On matrix `@n0ctu:matrix.org`
-- 🐘 Or Mastodon `n0ctu@troet.cafe`
+- ✉️ Via email `n0ctu[klammeraffe]proton.me`
+- 💬 On matrix `[klammeraffe]n0ctu:matrix.org`
+- 🐘 Or Mastodon `n0ctu[klammeraffe]troet.cafe`
